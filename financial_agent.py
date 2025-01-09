@@ -1,9 +1,13 @@
 import google.generativeai as genai
 import yfinance as yf
+import os
+from dotenv import load_dotenv
 from duckduckgo_search import DDGS
 
+load_dotenv()
+
 # Configure Gemini
-genai.configure(api_key="AIzaSyDs_zyIbPxfSS_Q_RqshWM9b57BglmBwLU")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel("gemini-pro")
 
 def get_latest_news(company):
