@@ -27,7 +27,7 @@ Welcome to the repository of cutting-edge AI applications leveraging **Generativ
 2. Compare resume content with the JD using a skilled ATS-like evaluation engine.  
 3. Get actionable suggestions to optimize your resume.
 
-![ATS Visual](https://via.placeholder.com/800x400.png?text=Resume+Evaluator+App+Screenshot)  
+  
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to the repository of cutting-edge AI applications leveraging **Generativ
 2. Aggregate the latest company and industry news.  
 3. Predict short- and long-term trends with Gemini-powered insights.
 
-![Stock Analysis Visual](https://via.placeholder.com/800x400.png?text=Stock+Analysis+App+Screenshot)  
+
 
 ---
 
@@ -90,7 +90,7 @@ C --> E[Long-Term Advice]
 2. Input your queries and get precise responses.  
 3. Review chat history for context.
 
-![Chatbot Visual](https://via.placeholder.com/800x400.png?text=Q%26A+Chatbot+App+Screenshot)
+
 
 ---
 
