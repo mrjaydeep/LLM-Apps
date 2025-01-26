@@ -9,3 +9,11 @@ groq
 openai
 streamlit
 PyPDF2
+google.generativeai
+langchain_openai 
+langchain_core
+langchain_community
+langserve
+langchainhub
+sentence_transformers
+langchain-objectbox
